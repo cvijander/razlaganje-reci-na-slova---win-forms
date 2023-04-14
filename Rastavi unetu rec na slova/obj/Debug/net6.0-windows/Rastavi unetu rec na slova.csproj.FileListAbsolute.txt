@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\bin\Debug\net6.0-windows\Rastavi unetu rec na slova.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\bin\Debug\net6.0-windows\Rastavi unetu rec na slova.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\bin\Debug\net6.0-windows\Rastavi unetu rec na slova.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\bin\Debug\net6.0-windows\Rastavi unetu rec na slova.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\bin\Debug\net6.0-windows\Rastavi unetu rec na slova.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi_unetu_rec_na_slova.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\refint\Rastavi unetu rec na slova.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\Rastavi unetu rec na slova.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Rastavi unetu rec na slova\Rastavi unetu rec na slova\obj\Debug\net6.0-windows\ref\Rastavi unetu rec na slova.dll
